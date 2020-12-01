@@ -2,7 +2,6 @@
 title: "Your blog post title"
 date: YYYY-MM-DD
 ---
-title: first test title
 author: qw
 email: qw@domain.com
 description: > # this means to ignore newlines until "baseurl:"
